@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "2004",
+        "userName": "root",
+        "profilePic": "images/6c7842ff-ffd4-4125-8d07-968189176556wallhaven-firewood.jpg",
+        "email": "super@user.com",
+        "password": "$2a$12$yOACeh7J.495SdvG8ud6ReTyPpv.PqVKvkswu10HytHNECKH/aOpO",
+        "firstName": "Honey",
+        "lastName": "Pot",
+        "role": "ROLE_ADMIN",
+        "dob": "2000-04-05T00:00:00.000Z",
+        "age": 21
+    },
+    {
+        "_id": "3393",
+        "userName": "Penguin",
+        "profilePic": "images/e0380078-75cc-44d7-823e-cddf239a1786penguins.jpg",
+        "email": "peng@uin.com",
+        "password": "$2a$12$J2RDXRZxRWp/p8LJb3S/eerwGBagIS13FSZWa7cG3l2Oe3GtapNXq",
+        "firstName": "Penguin",
+        "lastName": "Tux",
+        "role": "ROLE_USER",
+        "dob": "2000-04-05T00:00:00.000Z",
+        "age": 21
+    },
+    {
+        "_id": "9821",
+        "userName": "0w0",
+        "profilePic": "",
+        "email": "wow@wow.wow",
+        "password": "$2a$12$mxzkxbN7aP1.pl7Iu.hvAu2wHURqCvRySZmYU2AObQeLnQyK.nctW",
+        "firstName": "suche",
+        "lastName": "wow",
+        "role": "ROLE_USER"
+    }
+]
