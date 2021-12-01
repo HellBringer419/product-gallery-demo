@@ -1,6 +1,7 @@
 # Product Gallery
 A simple app to let users add, update and delete products. Admins can also delete users. 
 And there's also a handy todo list for you.
+Checkout the [live version of this app on Heroku](https://dashboard.heroku.com/apps/product-gallery-client)
 
 ## Configuration
 Use .env files to configure ports for client and server.
